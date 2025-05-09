@@ -19,6 +19,11 @@ This project includes a dataset of used cars with various features such as:
 - Explore trends in car pricing and usage
 - Visualize relationships between features (e.g., fuel type vs price)
 
+  ## TEAM
+  - Shazyar Sherzad
+  - Bahen Neuman
+  - Rozh Ali
+
 ## How to Use
 
 1. Open the notebook in Google Colab.
